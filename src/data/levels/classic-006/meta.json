@@ -1,7 +1,0 @@
-{
-  "description": "This level features multiple starting points. There is a starting point in each of the levels corners and the goal is to make your way towards the middle from those. The word in the middle is a bonus word, which makes it harder to solve without solving more than one of the paths leading to it.",
-  "height": 1350,
-  "name": "X Marks the Spot",
-  "size": 473,
-  "width": 1350
-}
